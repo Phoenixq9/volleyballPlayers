@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nametool"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFEB3B"
+    android:elevation="4dp"
+    android:title="Player Names"
+    android:titleTextColor="@color/colorAccent">
+
+</Toolbar>
